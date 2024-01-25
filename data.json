@@ -17,14 +17,14 @@
     {"name": "CSS", "proficiency": 85},
     {"name": "JavaScript", "proficiency": 80},
     {"name": "React", "proficiency": 75},
-    {"name": "Node.js", "proficiency": 70},
+    {"name": "Node.js", "proficiency": 70}
   ],
   "education": [
     {
       "degree": "Bachelor of Science in Computer Science",
       "school": "University XYZ",
       "graduationYear": 2020
-    },
+    }
   ],
   "experience": [
     {
@@ -34,7 +34,7 @@
       "startDate": "January 2019",
       "endDate": "Present",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
+    }
   ],
   "projects": [
     {
@@ -48,14 +48,14 @@
       "description": "Developed a web application that does...",
       "link": "https://www.projectxyz.com",
       "technologies": ["React", "Node.js", "MongoDB"]
-    },
-  ],
+    }
+  ]
   "certifications": [
     {
       "title": "Web Developer Certification",
       "organization": "Certification Authority XYZ",
       "date": "May 2021"
-    },
+    }
   ],
   "languages": [
     {"name": "English", "proficiency": "Native"},
@@ -64,6 +64,6 @@
   "interests": [
     "Web Development",
     "Open Source Contributions",
-    "Photography",
+    "Photography"
   ]
 }
